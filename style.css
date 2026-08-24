@@ -1,0 +1,14 @@
+img{border-radius: 75px}
+h2{font-size: 18px}
+body{background-color: lightcyan;
+font-family: Trebuchet MS;
+color: cadetblue;
+text-align: center;}
+a{background-color: paleturquoise;
+font-size: 20px;
+border-radius: 10px;
+padding: 10px;
+display: block;
+text-align: center;
+margin: 10px;
+color: teal;}
